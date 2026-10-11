@@ -1,0 +1,11 @@
+<resources>
+    <string id="AppName">אזעקת קוונטים</string>
+    <string id="TitleA">אזעקת</string>
+    <string id="TitleB">קוונטים</string>
+    <string id="Sub1">מורכב. לברוח.</string>
+    <string id="Warn1">נא להתרחק</string>
+    <string id="Warn2">מהמיקרופון</string>
+    <string id="Warn3">עם ידיים על</string>
+    <string id="Mouth">הפה</string>
+    <string id="MouthLong">הפההההההההה</string>
+</resources>

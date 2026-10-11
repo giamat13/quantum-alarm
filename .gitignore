@@ -1,0 +1,22 @@
+# Build output
+bin/
+*.prg
+*.iq
+*.prg.debug.xml
+gen/
+internal-mir/
+external-mir/
+
+# Signing keys: never commit these
+*.der
+*.pem
+developer_key*
+garmin_*key*
+
+# Personal editor settings (contain local paths)
+.vscode/settings.json
+
+# Demo recordings and screenshots made while developing
+*.mp4
+*.gif
+screenshot*.png

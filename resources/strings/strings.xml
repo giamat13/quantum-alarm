@@ -1,0 +1,11 @@
+<resources>
+    <string id="AppName">Quantum Alarm</string>
+    <string id="TitleA">QUANTUM</string>
+    <string id="TitleB">ALARM</string>
+    <string id="Sub1">COMPLEX. RUN.</string>
+    <string id="Warn1">STEP AWAY</string>
+    <string id="Warn2">FROM THE MIC</string>
+    <string id="Warn3">HANDS ON YOUR</string>
+    <string id="Mouth">MOUTH</string>
+    <string id="MouthLong">MOUUUUUUUTH</string>
+</resources>
