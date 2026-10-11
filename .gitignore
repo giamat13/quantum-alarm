@@ -20,3 +20,7 @@ garmin_*key*
 *.mp4
 *.gif
 screenshot*.png
+
+# ...but keep the store assets (cover, screen images, demo gif)
+!store/
+!store/**
