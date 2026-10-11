@@ -172,6 +172,9 @@
             <iq:product id="montana7xx"/>
             <iq:product id="oregon7xx"/>
             <iq:product id="rino7xx"/>
+            <iq:product id="approachs7243mm"/>
+            <iq:product id="approachs7247mm"/>
+            <iq:product id="enduro4"/>
         </iq:products>
         <iq:permissions/>
         <iq:languages>
@@ -180,5 +183,6 @@
         <iq:barrels/>
     </iq:application>
 </iq:manifest>
+
 
 
